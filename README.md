@@ -10,7 +10,7 @@ Files-
 6. tweets_trump_train.txt - txt file containing training data
 7. tweets_trump_test.txt - txt file containing testing data
 
-Foders-
+Folders-
 1.Final Data Set graph images - contains screenshots of code and output for final dataset
 2.demo data set graph images - contains screenshots of code and output for demo dataset
 3.Demo - contains demo dataset files
